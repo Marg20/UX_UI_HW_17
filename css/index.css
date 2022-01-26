@@ -1,0 +1,75 @@
+body{
+    margin:0 auto;
+    background-color:chartreuse;
+}
+
+.Nav li{
+    list-style-type: none;
+    color: white;
+   
+    
+}
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.title-items {
+    display: flex;
+    justify-content: center;
+}
+
+.Marg-img {
+    display: flex;
+    justify-content: center;
+
+
+.work h1{
+    display: flex;
+    justify-content: center;
+} 
+
+#case5 {
+    display: flex; 
+    justify-content: center;
+    
+}
+
+}
+.row1 {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    width:px;
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    width:px;
+} 
+
+.casestudy {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    flex-direction: column;
+
+} 
+
+h1 {
+    display: flex; 
+    justify-content: center;
+} 
+
+
+@media only screen and  (max-width: 510px) {
+    h1 {
+        color: red;
+    }
+}
